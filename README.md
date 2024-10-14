@@ -30,4 +30,5 @@ Expense Categories: Add predefined categories (e.g., Food, Rent, Transportation)
 Monthly Reports: Generate monthly summaries of income and expenses.
 Dark Mode: Toggle between light and dark themes.
 
+![image](https://github.com/user-attachments/assets/a545414a-e80b-4fe0-b285-7ece6d5b8773)
 
